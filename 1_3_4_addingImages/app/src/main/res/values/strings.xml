@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="greetings_text">May God Bless You!</string>
+    <string name="greeters_name">Satyam Raj</string>
+</resources>
